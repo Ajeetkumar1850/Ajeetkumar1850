@@ -4,7 +4,7 @@ Hi there 👋, I'm Ajeet Kumar!
 
 📆 Graduating in: 2027.
 
-💻 Currently exploring web development, data science, and machine learning, while enhancing my skills in Java, Data Structures, and Algorithms.
+💻 Currently exploring web development,  and machine learning, while enhancing my skills in Java, Data Structures and Algorithms.
 
 🌱 I enjoy working on Node.js, Express, and MongoDB for backend development, as well as honing my frontend skills with HTML, CSS, and JavaScript and React .
 
